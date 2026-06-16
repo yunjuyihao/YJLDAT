@@ -17,3 +17,5 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+# IDE/Editor files
+.theia/
