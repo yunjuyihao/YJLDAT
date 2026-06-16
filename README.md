@@ -1,6 +1,6 @@
 
-
-[中文文档](./README_CN.md) | English
+# Yunju Latency and Display Analysis Tool (YJLDAT)
+[简体中文](./README_CN.md) | English
 
 ![YJLDAT GUI](./images/图1.png)
 

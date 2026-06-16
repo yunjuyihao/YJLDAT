@@ -1,6 +1,6 @@
 # 云居延迟与显示分析工具（YJLDAT）
 
-[English](./README.md) | 中文文档
+[English](./README.md) | 简体中文
 
 ![YJLDAT 界面](./images/图1.png)
 
