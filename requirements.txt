@@ -1,0 +1,4 @@
+keyboard==0.13.5
+mouse==0.7.1
+pyglet==2.1.14
+pyserial==3.5

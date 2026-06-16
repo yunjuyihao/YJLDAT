@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build outputs
+build/
+dist/
+
+# Optional: local environment files
+.venv/
+venv/
+env/
+
+# Optional: editor/system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

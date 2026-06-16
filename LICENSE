@@ -1,0 +1,101 @@
+Yunju Latency and Display Analysis Tool Source-Available Non-Commercial License
+
+Copyright (c) 2026 云居一号
+
+Project Name: Yunju Latency and Display Analysis Tool
+Patent No.: ZL 2026 1 0104896.0
+
+1. Permission
+
+The source code of this project is made publicly available for viewing,
+learning, research, verification, and non-commercial personal use only.
+
+You may:
+
+- read and study the source code;
+- fork this repository on GitHub;
+- submit issues, suggestions, and pull requests;
+- use the project for personal, educational, research, or evaluation purposes,
+  provided that such use is non-commercial.
+
+2. Restrictions
+
+Without prior written permission from the copyright holder, you may not:
+
+- use this project, its source code, binaries, firmware, documentation,
+  algorithms, measurement methods, hardware designs, or derived works for
+  any commercial purpose;
+- sell, rent, sublicense, distribute, or provide this project as part of any
+  paid product, paid service, commercial testing service, hardware product,
+  software product, SaaS platform, consulting service, or business activity;
+- integrate this project or any substantial part of it into commercial
+  software, hardware, firmware, test equipment, production tools, or internal
+  commercial workflows;
+- remove or alter copyright, patent, license, or attribution notices;
+- claim authorship or ownership of this project or its protected technical
+  solutions;
+- use the project name, author name, related marks, or confusingly similar
+  names for endorsement, promotion, or commercial branding without permission.
+
+3. Patent Rights
+
+This project and its related technical solutions may be protected by granted
+patent rights, including but not limited to:
+
+Patent No.: ZL 2026 1 0104896.0
+
+No patent license is granted under this License.
+
+Making the source code publicly available does not constitute permission to
+make, use, sell, offer to sell, import, commercialize, implement, manufacture,
+or otherwise exploit any patented technical solution, except for strictly
+non-commercial personal, educational, research, or evaluation use as described
+in Section 1.
+
+Any commercial use involving the patented technical solution requires separate
+prior written authorization from the patent holder.
+
+4. Contributions
+
+Pull requests, issues, bug reports, suggestions, and other contributions are
+welcome.
+
+By submitting a contribution, you agree that:
+
+- your contribution may be incorporated into this project;
+- your contribution will be distributed under this same License;
+- you have the right to submit the contribution;
+- your contribution does not grant you ownership of the project, the project
+  name, or the related patent rights.
+
+5. No Warranty
+
+This project is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, accuracy, reliability, safety, or non-infringement.
+
+The author and rights holder shall not be liable for any claim, damage, loss,
+data loss, hardware damage, personal injury, business interruption, or other
+liability arising from the use of this project.
+
+6. Safety Notice
+
+This project may involve screen flashing, electronic hardware, USB devices,
+measurement circuits, and physical interaction with computer peripherals.
+
+Users are responsible for safe operation. Do not stare directly at flashing
+screens. Use appropriate electrical precautions. The author is not responsible
+for damage or injury caused by improper use.
+
+7. Commercial Licensing
+
+For commercial use, patent licensing, redistribution, integration, manufacturing,
+testing services, paid deployment, or other authorization requests, please
+contact the author separately.
+
+Author / Rights Holder: 云居一号
+
+8. Governing Language
+
+This License is written in English for repository distribution. If a translated
+version is provided, the English version shall prevail unless otherwise stated.
