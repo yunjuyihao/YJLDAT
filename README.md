@@ -298,7 +298,7 @@ Ensure safe use at your own discretion.
 
 This project is source-available for non-commercial use only.
 
-- Copyright: 云居一号 (Yunju Yihao)
+- Copyright: 云居一号 (yunjuyihao)
 - Patent No.: `ZL 2026 1 0104896.0`
 - Commercial use is prohibited without prior written permission
 - No patent license is granted
@@ -309,7 +309,7 @@ See [`LICENSE`](./LICENSE) for details.
 
 ## Author
 
-云居一号 (Yunju Yihao)
+云居一号 (yunjuyihao)
 
 ---
 
